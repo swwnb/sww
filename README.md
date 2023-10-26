@@ -1,1 +1,1 @@
-# sww
+# MIUI Ultimate Optimization Module (Magisk)
